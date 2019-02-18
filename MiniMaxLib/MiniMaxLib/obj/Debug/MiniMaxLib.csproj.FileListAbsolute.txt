@@ -3,3 +3,9 @@
 \\gmrdc1\folder redirection\david.lin\Documents\Visual Studio 2017\Projects\MiniMaxLib\MiniMaxLib\bin\Debug\MiniMaxLib.pdb
 \\gmrdc1\folder redirection\david.lin\Documents\Visual Studio 2017\Projects\MiniMaxLib\MiniMaxLib\obj\Debug\MiniMaxLib.dll
 \\gmrdc1\folder redirection\david.lin\Documents\Visual Studio 2017\Projects\MiniMaxLib\MiniMaxLib\obj\Debug\MiniMaxLib.pdb
+\\GMRDC1\Folder Redirection\david.lin\Documents\TicTacToeLib\MiniMaxLib\MiniMaxLib\bin\Debug\MiniMaxLib.dll
+\\GMRDC1\Folder Redirection\david.lin\Documents\TicTacToeLib\MiniMaxLib\MiniMaxLib\bin\Debug\MiniMaxLib.pdb
+\\GMRDC1\Folder Redirection\david.lin\Documents\TicTacToeLib\MiniMaxLib\MiniMaxLib\obj\Debug\MiniMaxLib.csprojAssemblyReference.cache
+\\GMRDC1\Folder Redirection\david.lin\Documents\TicTacToeLib\MiniMaxLib\MiniMaxLib\obj\Debug\MiniMaxLib.csproj.CoreCompileInputs.cache
+\\GMRDC1\Folder Redirection\david.lin\Documents\TicTacToeLib\MiniMaxLib\MiniMaxLib\obj\Debug\MiniMaxLib.dll
+\\GMRDC1\Folder Redirection\david.lin\Documents\TicTacToeLib\MiniMaxLib\MiniMaxLib\obj\Debug\MiniMaxLib.pdb

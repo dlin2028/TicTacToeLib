@@ -4,15 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TreelessTicTacToe
+namespace MiniMaxLib
 {
-    interface IGameState
+    public interface IGameState
     {
-        IGame Game { get; }
-        int Player { get; }
-        int NextPlayer { get; }
-        bool GameOver { get; }
-        IGameState[] Moves();
-        int Score(int player);
+        double Value { get; set; }
+        bool IsTerminal { get; set; }
+        IGameState[] Children { get;}
     }
 }
